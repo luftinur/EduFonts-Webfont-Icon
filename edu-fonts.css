@@ -1,0 +1,102 @@
+@font-face {
+  font-family: 'edufonts';
+  src:  url('fonts/edufonts.eot?h0zpfp');
+  src:  url('fonts/edufonts.eot?h0zpfp#iefix') format('embedded-opentype'),
+    url('fonts/edufonts.ttf?h0zpfp') format('truetype'),
+    url('fonts/edufonts.woff?h0zpfp') format('woff'),
+    url('fonts/edufonts.svg?h0zpfp#edufonts') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="edu-"], [class*=" edu-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'edufonts' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.edu-2x
+{
+	font-size:2em;
+}
+.edu-4x
+{
+	font-size:4em;
+}
+
+.edu-alarm:before {
+  content: "\e001";
+}
+.edu-atom:before {
+  content: "\e002";
+}
+.edu-books:before {
+  content: "\e003";
+}
+.edu-certificate:before {
+  content: "\e004";
+}
+.edu-chalkboard:before {
+  content: "\e005";
+}
+.edu-standboard:before {
+  content: "\e006";
+}
+.edu-chemical-glass:before {
+  content: "\e007";
+}
+.edu-ecard:before {
+  content: "\e008";
+}
+.edu-elearning:before {
+  content: "\e009";
+}
+.edu-globe:before {
+  content: "\e010";
+}
+.edu-student-card:before {
+  content: "\e012";
+}
+.edu-pencil:before {
+  content: "\e013";
+}
+.edu-pencil-ruler:before {
+  content: "\e014";
+}
+.edu-ribbon:before {
+  content: "\e015";
+}
+.edu-ruler-angle:before {
+  content: "\e016";
+}
+.edu-ruler:before {
+  content: "\e017";
+}
+.edu-ruler-arc:before {
+  content: "\e018";
+}
+.edu-schoolbus:before {
+  content: "\e019";
+}
+.edu-bonnet:before {
+  content: "\e020";
+}
+.edu-teacher:before {
+  content: "\e021";
+}
+.edu-student:before {
+  content: "\e022";
+}
+.edu-students:before {
+  content: "\e023";
+}
+
