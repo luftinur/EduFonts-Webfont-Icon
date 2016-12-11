@@ -1,5 +1,5 @@
 # EduFonts-Webfont-Icon
-Webfont Icon That Specialized For Education Industry 
+FREE Webfont Icon That Specialized For Education Industry 
 
 # Getting Started
 http://edufonts.luftinurfahmi.net/#getstart
