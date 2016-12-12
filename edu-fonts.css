@@ -99,4 +99,9 @@
 .edu-students:before {
   content: "\e023";
 }
-
+.edu-bag:before {
+  content: "\e024";
+}
+.edu-calculator:before {
+  content: "\e025";
+}
